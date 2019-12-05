@@ -1,5 +1,7 @@
 # tableau
 
+->case study project1.twbx:
+
 Sales analysis for building new strategies:
 
 Problem Statement:
