@@ -2,6 +2,8 @@
 
 ->case study project1.twbx:
 
+wipro trend nxt tableau l1 hands-on
+
 Sales analysis for building new strategies:
 
 Problem Statement:
